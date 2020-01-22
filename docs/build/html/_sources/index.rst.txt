@@ -6,10 +6,14 @@
 Welcome to test_sphinx_rtd's documentation!
 ===========================================
 
+This is a template to test sphinx-based api documentation on RTD.
+
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   modules.rst
 
 
 Indices and tables

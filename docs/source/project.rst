@@ -1,5 +1,6 @@
 project package
 ===============
+The project is filled with template functions to check the autodoc functionality.
 
 Submodules
 ----------
@@ -12,11 +13,10 @@ project.module1 module
    :undoc-members:
    :show-inheritance:
 
+project.module2 module
+----------------------
 
-Module contents
----------------
-
-.. automodule:: project
+.. automodule:: project.module2
    :members:
    :undoc-members:
    :show-inheritance:
