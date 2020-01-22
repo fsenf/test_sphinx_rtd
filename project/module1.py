@@ -1,6 +1,6 @@
 import sys
 
-def func( x )
+def func( x ):
 
     '''
     Test function 1.
@@ -17,8 +17,8 @@ def func( x )
     y : float
         test para
 
-   '''
+    '''
 
-   y = 2 * x
+    y = 2 * x
 
-   return y
+    return y

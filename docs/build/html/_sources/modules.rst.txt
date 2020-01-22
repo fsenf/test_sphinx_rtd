@@ -1,7 +1,7 @@
-simpleble
-=========
+project
+=======
 
 .. toctree::
    :maxdepth: 4
 
-   simpleble
+   project
